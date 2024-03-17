@@ -1,6 +1,6 @@
 # Hi, I’m ***Likun Schen*** @SchenLikun
 ### Focus on : microgrid, power distribution systems, artificial intelligence, hierarchical control;
-### I’m pursuing EE. Ph.D degree at Wuhan University (HUBEI, CHINA), and currently visiting University of Edinburgh (SCOTLAND, EDINBURGH)
+### I’m pursuing EE. Ph.D degree at Wuhan University (HUBEI, CHINA), and currently visiting University of Edinburgh (SCOTLAND, UK)
 ### Contact : Schenlk@ieee.org or chenlk@whu.edu.cn
 
 ## My Repositories:
@@ -87,7 +87,8 @@
   author={谌立坤 and 董旭柱 and 王波 and 张秋萍 and 张高敏 and 尚磊},  
   year={2022},  
 }
->
+
+
 >@misc{尚磊2022一种基于信息熵的分布式电源孤岛检测方法,  
   title={一种基于信息熵的分布式电源孤岛检测方法},  
   author={尚磊 and 董旭柱 and 谌立坤 and 韩春伊 and 王波 and 刘承锡},  
