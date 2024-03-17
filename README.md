@@ -14,17 +14,7 @@
 ---
 
 ## My Research Publication:
->@INPROCEEDINGS{9713135,  
-  author={Chen, Likun and Dong, Xuzhu and Deng, Jinglei and Wang, Bo and Shang, Lei and Hua, Zhuhu},  
-  booktitle={2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)},   
-  title={Non-uniform Quantisation Current Differential Protection Algorithm Applied On Power Specific Integrated Circuit},   
-  year={2021},  
-  volume={},  
-  number={},  
-  pages={3425-3430},  
-  keywords={Performance evaluation;Quantization (signal);Protective relaying;System integration;Power industry;Steady-state;Power system reliability;power specific integrated circuit;current differential protection;non-uniform quantisation;chip application;on-chip system},  
-  doi={10.1109/EI252483.2021.9713135}}  
->
+
 >
 >@ARTICLE{10159133,  
   author={Chen, Likun and Dong, Xuzhu and Wang, Bo and Shang, Lei and Liu, Chengxi},  
@@ -80,7 +70,18 @@
   title={一种基于信息熵的分布式电源孤岛检测方法},  
   author={尚磊 and 董旭柱 and 谌立坤 and 韩春伊 and 王波 and 刘承锡},  
   year={2022},  
-}  
+}
+>@INPROCEEDINGS{9713135,  
+  author={Chen, Likun and Dong, Xuzhu and Deng, Jinglei and Wang, Bo and Shang, Lei and Hua, Zhuhu},  
+  booktitle={2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)},   
+  title={Non-uniform Quantisation Current Differential Protection Algorithm Applied On Power Specific Integrated Circuit},   
+  year={2021},  
+  volume={},  
+  number={},  
+  pages={3425-3430},  
+  keywords={Performance evaluation;Quantization (signal);Protective relaying;System integration;Power industry;Steady-state;Power system reliability;power specific integrated circuit;current differential protection;non-uniform quantisation;chip application;on-chip system},  
+  doi={10.1109/EI252483.2021.9713135}}  
+>
 
 
 
