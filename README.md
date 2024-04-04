@@ -1,6 +1,7 @@
 # Hi, I’m ***Likun Schen*** @SchenLikun
 ### Focus on : microgrid, power distribution systems, artificial intelligence, hierarchical control;
 ### I’m pursuing EE. Ph.D degree at Wuhan University (HUBEI, CHINA), and currently visiting University of Edinburgh (SCOTLAND, UK)
+### Supervisor Contact: dongxz@whu.edu.cn (Ask for Data Share Approvement)
 ### Contact : Schenlk@ieee.org or chenlk@whu.edu.cn
 
 ## My Repositories:
